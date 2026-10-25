@@ -28,7 +28,7 @@
 
 - Docker CLI is not installed; local PostgreSQL 16 services were available, so Docker was not needed for verification.
 - Docker was unavailable in this environment; local PostgreSQL was used for database verification.
-- Submission evidence still needs genuine raw AI logs/public links, meaningful project commit history/TDD evidence, and public-repository verification; local screenshots are now stored under `screenshots/` and linked from the README.
+- Submission evidence now includes a genuine public ChatGPT conversation and accessible Codex excerpts in `PROMPTS.md`; complete exports for unavailable conversations, meaningful project commit history/TDD evidence, and public-repository verification remain outstanding. Local screenshots are stored under `screenshots/` and linked from the README.
 
 ## Next
 

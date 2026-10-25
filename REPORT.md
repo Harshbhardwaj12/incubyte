@@ -30,7 +30,7 @@ Verified on 2026-10-25:
 
 ## Submission evidence still required
 
-- `PROMPTS.md` contains an honest placeholder because the original raw AI logs/public links were not available in this checkout; the owner must supply genuine material.
+- `PROMPTS.md` contains genuine accessible Codex excerpts and the linked public ChatGPT project conversation. Complete exports for unavailable conversations remain outstanding and must be supplied by the owner if required.
 - README now links to captured local screenshots in `screenshots/` for the landing page, dashboard, and admin controls.
 - The current branch has no meaningful project commit history and all project files are uncommitted/untracked, so Red-Green-Refactor history cannot be established from this checkout.
 - Public repository status was not verified.
